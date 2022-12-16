@@ -8,6 +8,8 @@ Lees un csv y la herramienta loader inserta con la menor fricción sin necesidad
 
 Se dan permisos de ejecución a el archivo execute que tengo con el comando y los parametros para hacer la carga y sacar los logs
 
-./execute
+chmod +x ./execute.sh
+
+./execute.sh
 
 en el archivo control se hace un barrido de los datos y se formatea a como se necesitan en la tabla
